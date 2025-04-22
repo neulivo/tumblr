@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>Tumblr</h1>
+  <h1>The Tumblr Playground</h1>
 </div>
 
 <div align="center">
-  <p>The Tumblr Playground — a collection of building blocks for ultimate personalization to customize, create, and transform your space on <code>tumblr.com</code>. </p>
+  <p>A collection of building blocks for ultimate personalization to customize, create, and transform your space on <code>tumblr.com</code>. </p>
 </div>
 
 <div align="center">
