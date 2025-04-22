@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <p>The new repository for <code>tumblr.com</code> lovers with pages, themes, widgets and more!</p>
+  <p>The Tumblr Playground — a collection of building blocks for ultimate personalization to customize, create, and transform your space on <code>tumblr.com</code>. </p>
 </div>
 
 <div align="center">
   
-  <a href="https://github.com/outlivo/tumblr">![0](https://img.shields.io/github/stars/outlivo/tumblr?style=social)</a>
-  <a href="https://github.com/outlivo/tumblr">![1](https://img.shields.io/github/forks/outlivo/tumblr?style=social)</a>
-  <a href="https://github.com/outlivo/tumblr/blob/main/LICENSE">![2](https://img.shields.io/github/license/outlivo/tumblr)</a>
+  <a href="https://github.com/neulivo/tumblr">![0](https://img.shields.io/github/stars/outlivo/tumblr?style=social)</a>
+  <a href="https://github.com/neulivo/tumblr">![1](https://img.shields.io/github/forks/outlivo/tumblr?style=social)</a>
+  <a href="https://github.com/neulivo/tumblr/blob/main/LICENSE">![2](https://img.shields.io/github/license/outlivo/tumblr)</a>
  
 </div>
