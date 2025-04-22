@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <p>A collection of building blocks for ultimate personalization to customize, create, and transform your space on <code>tumblr.com</code>. </p>
+  <p>A collection of building blocks to customize, create, and transform your space on <code>tumblr.com</code>. </p>
 </div>
 
 <div align="center">
